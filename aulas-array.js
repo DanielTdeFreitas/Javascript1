@@ -14,3 +14,11 @@ console.log (numeralpop);
 
 console.log (numeral);
 
+let numeralunshift = numeral.unshift (7);
+
+console.log (numeralunshift);
+
+console.log (numeral);
+
+
+
